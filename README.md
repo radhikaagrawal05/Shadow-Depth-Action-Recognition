@@ -1,3 +1,4 @@
+console.success Winter Internship '25
 # Shadow Depth Action Recognition
 
 Physics-based vision system that estimates hand-to-face distance using shadow occlusion
